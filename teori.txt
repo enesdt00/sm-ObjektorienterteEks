@@ -1,0 +1,10 @@
+2-1)Innkapsling er en spesiell programmeringsteknikk. Takket være denne teknikken forhindres direkte tilgang til objektet til en klasse fra ute.
+Det ved å bruke denne metoden formåler vi å beskytte variabler.Vi bruker den metoden slik'self._variabelNavn'.
+2-2)En grensesnitt av klasse spesifiserer hva som skal gjøres. For eksempel en radio som har forksjellige knapper. 
+De knapper er egentlig en grensesnitt. Hvis vi ikke tilordner en funksjon til dem, fungerer de ikke.
+Å tilordne en funksjon kalles også en implementasjon. Hvis vi går fra radioeksemplet, bestemmer disse  implementasjonene hva disse knappene vil gjøre.
+En klass består av grensesnitter og implementasjoner.
+
+3-3)Hensikten med å bruke funksjoner, definisjoner eller metoder er å gjenbruke kode. De kan alle ta argumenter. Metoder må imidlertid defineres i klassen. 
+I tillegg, mens ferdige funksjoner finnes i python, må metoder være skrevet av en person.
+
